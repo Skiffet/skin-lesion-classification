@@ -152,10 +152,10 @@ The dataset is heavily imbalanced (nv has ~58× more samples than df). We addres
 
 | Metric | Random Forest (HOG) | Custom CNN |
 |---|---|---|
-| Accuracy | — | — |
-| Precision (weighted) | — | — |
-| Recall (weighted) | — | — |
-| F1 (weighted) | — | — |
+| Accuracy | 0.6693 | 0.1111 |
+| Precision (weighted) | 0.4480 | 0.0414 |
+| Recall (weighted) | 0.6693 | 0.1111 |
+| F1 (weighted) | 0.5367 | 0.0568 |
 
 *(Results will be filled after running both notebooks on Google Colab)*
 
