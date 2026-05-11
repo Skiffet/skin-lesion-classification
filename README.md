@@ -172,3 +172,11 @@ The dataset is heavily imbalanced (nv has ~58× more samples than df). We addres
 4. Esteva, A. et al. (2017). **Dermatologist-level classification of skin cancer with deep neural networks.** Nature, 542, 115–118.
 
 5. Dalal, N., & Triggs, B. (2005). **Histograms of oriented gradients for human detection.** CVPR 2005. *(HOG features used in Random Forest baseline)*
+
+---
+
+## Final Report
+
+You can view the full final report here:
+
+[View Final Report](./final_report.pdf)
